@@ -1,0 +1,1387 @@
+[
+    {
+        "name": "Ajak",
+        "category": "Hero",
+        "species": "Eternal",
+        "gender": "Female",
+        "status": "Dead",
+        "movie": [
+            "Eternals"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ajak",
+        "description": "The Eternal Ajak is the spiritual leader of the group, guiding the Eternals on their mission from their home planet to Earth to defend humankind from the predatorial Deviants. "
+    },
+    {
+        "name": "Ant-Man",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Ant-Man ",
+            "Ant-Man and The Wasp",
+            "Ant-Man and The Wasp: Quantumani"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ant-Man",
+        "description": "Overcoming his criminal past, Scott Lang follows in the tiny, yet mighty, footsteps of his predecessor as the size-changing hero known as Ant-Ma"
+    },
+    {
+        "name": "Att-Lass",
+        "category": "Villen",
+        "species": "Kree",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Captain Marv"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Att-Lass",
+        "description": "Att-Lass is Starforce's stealth and infiltration specialist."
+    },
+    {
+        "name": "Black Panther",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Black Panthe",
+            "Captain America: Civil War"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Black Panther",
+        "description": "T Challa is the king of the secretive and highly advanced African nation of Wakanda - as well as the powerful warrior known as the Black Panther"
+    },
+    {
+        "name": "Black Widow",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Dead",
+        "movie": [
+            "Avengers: Age of Ultron ",
+            "Avengers: Infinity War",
+            "Captain America: Civil War",
+            "Captain America: The Winter Soldier ",
+            "The Avengers"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Black Widow",
+        "description": "Natasha Romanoff, separated from the now-fractured Avengers, confronts the dark path she took to becoming a spy and assassin, as well as events that followe"
+    },
+    {
+        "name": "Yelena",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Black Widow "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Yelena",
+        "description": "A product of the Red Room\u00e2\u20ac\u2122s ruthless training programs, this fiery assassin has a secret history with the Black Widow that she is determined to addres"
+    },
+    {
+        "name": "Bron-Char",
+        "category": "Villen",
+        "species": "Kree",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Captain Marv"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Bron-Char",
+        "description": "The Starforce team's muscle, Bron-Char uses brute force against the Skrulls."
+    },
+    {
+        "name": "Captain America",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Ant-Man ",
+            "Avengers: Age of Ultron ",
+            "Avengers: Infinity War",
+            "Captain America: Civil War",
+            "Captain America: The First Aveng",
+            "Spider-Man: Homecomi",
+            "The Avengers"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Captain America",
+        "description": "Recipient of the Super Soldier serum, World War II hero Steve Rogers fights for American ideals as one of the world\u00e2\u20ac\u2122s mightiest heroes and the leader of the Avengers."
+    },
+    {
+        "name": "Captain Marvel",
+        "category": "Hero",
+        "species": "Human/Kree Hybrid",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Captain Marv",
+            "The Marvels "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Captain Marvel",
+        "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien race"
+    },
+    {
+        "name": "The Collector",
+        "category": "Hero",
+        "species": "NA",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Guardians of the Galaxy ",
+            "Thor: The Dark World"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/The Collector",
+        "description": "Offbeat alien Taneleer Tivan seeks both objects and living creatures that he finds of interest for his massive collection, including unwilling participants and dangerous weapon"
+    },
+    {
+        "name": "Corvus Glaive",
+        "category": "Villen",
+        "species": "NA",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Corvus Glaive",
+        "description": "A loyal follower of Thanos, Corvus Glaive is a force to be reckoned with as he relentlessly strikes against those in his pat"
+    },
+    {
+        "name": "Doctor Erik Selvig",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "The Avengers",
+            "Thor",
+            "Thor: The Dark World"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Doctor Erik Selvig",
+        "description": "Dr. Erik Selvig, astrophysicist and professor, contributes his substantial knowledge to help the Avengers defeat their foes."
+    },
+    {
+        "name": "Doctor Strange",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Infinity War",
+            "Doctor Stran",
+            "Doctor Strange in the Multiverse of Madness ",
+            "Spider-Man: No Way Home ",
+            "Thor: Ragnarok"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Doctor Strange",
+        "description": "Formerly a renowned surgeon, Doctor Stephen Strange now serves as the Sorcerer Supreme\u00e2\u20ac\u201dEarth\u00e2\u20ac\u2122s foremost protector against magical and mystical threats. "
+    },
+    {
+        "name": "Dormammu",
+        "category": "Villen",
+        "species": "Faltine",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Doctor Stran"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Dormammu",
+        "description": "Originating in the aptly-named Dark Dimension, this incredibly powerful being has ominous plans for Earth and those who live there. "
+    },
+    {
+        "name": "Drax",
+        "category": "Hero",
+        "species": "Kylosians",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Guardians of the Galaxy ",
+            "Guardians of the Galaxy Vol."
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Drax",
+        "description": "Drax uses his super strength and combat skills to destroy any enemies of the galaxy."
+    },
+    {
+        "name": "Druig",
+        "category": "Hero",
+        "species": "Eternal",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Eternals"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Druig",
+        "description": "Druig has the powerful ability to control the minds of humans with his cosmic energy, which at times makes it difficult to determine if he\u00e2\u20ac\u2122s friend or foe"
+    },
+    {
+        "name": "Ebony Maw",
+        "category": "Villen",
+        "species": "NA",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Avengers: Infinity War"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ebony Maw",
+        "description": "Ruthlessly carrying out his master's orders, Ebony Maw uses his formidable powers to enforce Thanos' rul"
+    },
+    {
+        "name": "Ego",
+        "category": "Villen",
+        "species": "Celestial",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Guardians of the Galaxy Vol."
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ego",
+        "description": "Ancient and unbelievably powerful, Ego has the power of an entire planet at his disposal"
+    },
+    {
+        "name": "Erik Killmonger",
+        "category": "Villen",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Black Panthe"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Erik Killmonger",
+        "description": "Raised in America, the man known as Erik Killmonger returns to his father's home of Wakanda determined to overthrow T'Challa and rule the nation himself"
+    },
+    {
+        "name": "Skurge",
+        "category": "Hero",
+        "species": "Asgardian",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Thor: Ragnarok"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Skurge",
+        "description": "Asgardian warrior turned Executioner under Hela's command, Skurge deals with internal conflict as to whether he should save his people or exploit his newfound power"
+    },
+    {
+        "name": "Gamora",
+        "category": "Hero",
+        "species": "Zehoberei",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Infinity War",
+            "Guardians of the Galaxy ",
+            "Guardians of the Galaxy Vol."
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Gamora",
+        "description": "Raised by Thanos to be a living weapon, Gamora seeks redemption as a member of the Guardians of the Galaxy, putting her extraordinary fighting abilities to good use"
+    },
+    {
+        "name": "Gilgamesh",
+        "category": "Hero",
+        "species": "Eternal",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Eternals"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Gilgamesh",
+        "description": "The powerful Eternal Gilgamesh is a fierce warrior remembered throughout history for his legendary battles. "
+    },
+    {
+        "name": "Goose the Cat",
+        "category": "Hero",
+        "species": "Flerkens",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Captain Marv"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Goose the Cat",
+        "description": "The friendliest and furriest resident of Project Pegasus, Goose is the affectionate tabby cat that joins Carol Danvers and Nick Fury on their adventure."
+    },
+    {
+        "name": "Grandmaster",
+        "category": "Villen",
+        "species": "Sakaaran",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Thor: Ragnarok"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Grandmaster",
+        "description": "Everything is a game to this cosmic entity, who loves to pit beings against each other for his own amusement"
+    },
+    {
+        "name": "Groot",
+        "category": "Hero",
+        "species": "Flora Colossus",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Guardians of the Galaxy ",
+            "Guardians of the Galaxy Vol."
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Groot",
+        "description": "This sentient alien tree branches out of his comfort zone to help the Guardians of the Galaxy keep the people of the universe safe. "
+    },
+    {
+        "name": "Hank Pym",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Ant-Man ",
+            "Ant-Man and The Wasp"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Hank Pym",
+        "description": "Dr. Henry \u00e2\u20ac\u0153Hank\u00e2\u20ac\u009d Pym, the creator of the wondrous Pym Particles, has been a crimefighting hero, brilliant inventor, and fearless explore"
+    },
+    {
+        "name": "Hawkeye",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Age of Ultron ",
+            "Captain America: Civil War",
+            "The Avengers",
+            "Thor"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Hawkeye",
+        "description": "A master marksman and longtime friend of Black Widow, Clint Barton serves as the Avengers\u00e2\u20ac\u2122 amazing archer."
+    },
+    {
+        "name": "Heimdall",
+        "category": "Hero",
+        "species": "Asgardian",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Thor",
+            "Thor: Ragnarok",
+            "Thor: The Dark World"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Heimdall",
+        "description": "An all-seeing Asgardian in charge of guarding the Rainbow Bridge known as the Bifrost, Heimdall's keen skills serve him well as a first line of defense."
+    },
+    {
+        "name": "Hela",
+        "category": "Villen",
+        "species": "Asgardian",
+        "gender": "Female",
+        "status": "Dead",
+        "movie": [
+            "Thor: Ragnarok"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Hela",
+        "description": "With family ties to the rulers of Asgard, Hela seeks power (and followers) for herself. "
+    },
+    {
+        "name": "Howard Stark",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Ant-Man "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Howard Stark",
+        "description": "Brilliant engineer, inventor, businessman, and founder of Stark Industries, Howard Stark is the mastermind behind the company that his son, Tony Stark, will one day inherit"
+    },
+    {
+        "name": "Hulk",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Iron Man",
+            "The Avengers",
+            "The Incredible Hulk ",
+            "Thor: Ragnarok"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Hulk",
+        "description": "Dr. Bruce Banner lives a life caught between the soft-spoken scientist he\u00e2\u20ac\u2122s always been and the uncontrollable green monster powered by his rage. "
+    },
+    {
+        "name": "Ikaris",
+        "category": "Villen",
+        "species": "Eternal",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Eternals"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ikaris",
+        "description": "The powerful Eternal Ikaris is the moral, charismatic tactician of the group, tasked with keeping his team and humanity safe"
+    },
+    {
+        "name": "Melina",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Black Widow "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Melina",
+        "description": "Melina is a highly trained spy who has been cycled through the Red Room\u00e2\u20ac\u2122s Widow program four times"
+    },
+    {
+        "name": "Iron Man",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Captain America: Civil War",
+            "Iron Man",
+            "Spider-Man: Homecomi",
+            "The Avengers",
+            "The Incredible Hulk "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Iron Man",
+        "description": "Genius. Billionaire. Philanthropist. Tony Stark's confidence is only matched by his high-flying abilities as the hero called Iron Ma"
+    },
+    {
+        "name": "Kingo",
+        "category": "Hero",
+        "species": "Eternal",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Eternals"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Kingo",
+        "description": "The boisterous Eternal Kingo, enamored with the idea of fame, has taken the most advantage of his centuries-long time on Earth. "
+    },
+    {
+        "name": "Ulysses Klaue",
+        "category": "Villen",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Black Panthe"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ulysses Klaue",
+        "description": "An ongoing enemy of Wakanda and its people, this clever criminal would replace his lost arm with a powerful weapon. "
+    },
+    {
+        "name": "Korath",
+        "category": "Villen",
+        "species": "Kree",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Captain Marv"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Korath",
+        "description": "Stoic, humorless and disciplined, Korath is second-in-command in the elite Starforce"
+    },
+    {
+        "name": "Loki",
+        "category": "Hero",
+        "species": "Asgardian",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "The Avengers",
+            "Thor",
+            "Thor: Ragnarok",
+            "Thor: The Dark World"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Loki",
+        "description": "God of Mischief and brother to Thor, Loki\u00e2\u20ac\u2122s tricks and schemes wreak havoc across the realms. "
+    },
+    {
+        "name": "Makkari",
+        "category": "Hero",
+        "species": "Eternal",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Eternals"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Makkari",
+        "description": "With her cosmic-powered super-speed, Makkari scouts planets for the Eternals, a group of ancient, immortal beings working on behalf of the Celestial"
+    },
+    {
+        "name": "Mantis",
+        "category": "Hero",
+        "species": "insectoids",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Infinity War",
+            "Guardians of the Galaxy Vol."
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Mantis",
+        "description": "Mantis uses her powers to protect the galaxy against those who would seek to harm it"
+    },
+    {
+        "name": "Maria Rambeau",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Captain Marv"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Maria Rambeau",
+        "description": "A former test fighter pilot and Carol Danvers' best friend, Maria is a strong-minded and loyal confidant"
+    },
+    {
+        "name": "Minn-Erva",
+        "category": "Villen",
+        "species": "Kree",
+        "gender": "Female",
+        "status": "Dead",
+        "movie": [
+            "Captain Marv"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Minn-Erva",
+        "description": "Starforce's talented sniper, Minn-Erva is deadly from near and far. "
+    },
+    {
+        "name": "Nakia",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Black Panthe"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Nakia",
+        "description": "A formidable Wakandan, Nakia finds herself conflicted thanks to her feelings for T'Chall"
+    },
+    {
+        "name": "Nebula",
+        "category": "Hero",
+        "species": "Luphomoids",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Infinity War",
+            "Guardians of the Galaxy ",
+            "Guardians of the Galaxy Vol."
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Nebula",
+        "description": "As a pirate and mercenary with her intentions set on conquering other empires, this daughter of Thanos is feared by many across the star systems"
+    },
+    {
+        "name": "Nick Fury",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Captain Marv",
+            "Spider-Man: Far From Home"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Nick Fury",
+        "description": "A veteran S.H.I.E.L.D. operative, Nick Fury continues the legacy as one of the greatest super spies in the world"
+    },
+    {
+        "name": "Odin",
+        "category": "Hero",
+        "species": "Asgardian",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Thor",
+            "Thor: Ragnarok",
+            "Thor: The Dark World"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Odin",
+        "description": "The King of Asgard, Odin's immense wisdom helps him battle threats from both outside and within his real"
+    },
+    {
+        "name": "Okoye",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Black Panthe"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Okoye",
+        "description": "One of Wakanda's greatest warriors, Okoye proudly protects her country's king alongside the Dora Milaje."
+    },
+    {
+        "name": "Peggy Carter",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Dead",
+        "movie": [
+            "Ant-Man "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Peggy Carter",
+        "description": "An agent who fought alongside Captain America during World War II, Peggy Carter is a naturally born leader and staunch supporter of justice."
+    },
+    {
+        "name": "Phastos",
+        "category": "Hero",
+        "species": "Eternal",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Eternals"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Phastos",
+        "description": "The genius Phastos has nudged humanity\u00e2\u20ac\u2122s technological advancements forward throughout the centuries while shielding his own brillianc"
+    },
+    {
+        "name": "Phil Coulson",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Captain Marv"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Phil Coulson",
+        "description": "His devotion to upholding the legacy and duties of Super Heroes makes Phil Coulson the true definition of an agent of S.H.I.E.L."
+    },
+    {
+        "name": "Proxima Midnight",
+        "category": "Villen",
+        "species": "Black Order",
+        "gender": "Female",
+        "status": "Dead",
+        "movie": [
+            "Avengers: Infinity War"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Proxima Midnight",
+        "description": "Proxima Midnight conquers across the galaxy for her master Thanos, with her deadly spear ever ready to strik"
+    },
+    {
+        "name": "Red Guardian",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Red Guardian",
+        "description": "Alexei is known most famously as Red Room\u00e2\u20ac\u2122s answer to Captain America. He\u00e2\u20ac\u2122s a Super-Soldier spy who has lived a lifetime of triumph during the Cold War."
+    },
+    {
+        "name": "Rick Mason",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Black Widow "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Rick Mason",
+        "description": "NA"
+    },
+    {
+        "name": "Rocket",
+        "category": "Hero",
+        "species": "Halfworlder",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Infinity War",
+            "Guardians of the Galaxy ",
+            "Guardians of the Galaxy Vol."
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Rocket",
+        "description": "As the weapons and tactical expert of the Guardians of the Galaxy, Rocket risks his hide to defend the cosmo"
+    },
+    {
+        "name": "Ronan",
+        "category": "Villen",
+        "species": "Kree",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Captain Marv"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ronan",
+        "description": "As a cruel and fanatical member of the Kree race, Ronan double-crossed Thanos in an attempt to keep the Power Stone for himself."
+    },
+    {
+        "name": "Captain America",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Ant-Man ",
+            "Avengers: Age of Ultron ",
+            "Avengers: Infinity War",
+            "Captain America: Civil War",
+            "Captain America: The First Aveng",
+            "Spider-Man: Homecomi",
+            "The Avengers"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Captain America",
+        "description": "Sam Wilson, formerly the Falcon, takes on the mantle of Captain America as he teams up with his fellow Avengers."
+    },
+    {
+        "name": "Wanda Maximoff",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Infinity War",
+            "Captain America: The Winter Soldier ",
+            "Doctor Strange in the Multiverse of Madness "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Wanda Maximoff",
+        "description": "Notably powerful, Wanda Maximoff has fought both against and with the Avengers, attempting to hone her abilities and do what she believes is right to help the world"
+    },
+    {
+        "name": "Sersi",
+        "category": "Hero",
+        "species": "Eternal",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Eternals"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Sersi",
+        "description": "The humankind-loving Eternal Sersi delights in her mission stationed on Earth; she\u00e2\u20ac\u2122s as happy working as a museum curator as she is saving humanit"
+    },
+    {
+        "name": "Shang-Chi",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Shang-Chi and The Legend of The Ten Ring"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Shang-Chi",
+        "description": "NA"
+    },
+    {
+        "name": "Shocker",
+        "category": "Villen",
+        "species": "NA",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Spider-Man: Homecomi"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Shocker",
+        "description": "Herman Schultz combines his engineering intellect and past experience in criminality to embody the persona of Shocke"
+    },
+    {
+        "name": "Shuri",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Black Panthe"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Shuri",
+        "description": "The younger sister of T'Challa, the Black Panther, Shuri astounds with her brilliant inventions, often providing key components to her brother's battles"
+    },
+    {
+        "name": "Spider-Man",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Infinity War",
+            "Spider-Man: Far From Home",
+            "Spider-Man: Homecomi",
+            "Spider-Man: No Way Home "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Spider-Man",
+        "description": "Bitten by a radioactive spider, Peter Parker\u00e2\u20ac\u2122s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles. "
+    },
+    {
+        "name": "Sprite",
+        "category": "Hero",
+        "species": "Eternal",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Eternals"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Sprite",
+        "description": "The Eternal Sprite is the grandiose storyteller of the group who just so happens to possess the appearance of a 13-year-old girl"
+    },
+    {
+        "name": "Star-Lord",
+        "category": "Hero",
+        "species": "Human/Celestial Hybrid",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Guardians of the Galaxy ",
+            "Guardians of the Galaxy Vol."
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Star-Lord",
+        "description": "Leader of the Guardians of the Galaxy, Peter Quill, known as Star-Lord, brings a sassy sense of humor while protecting the universe from any and all threats"
+    },
+    {
+        "name": "Talos",
+        "category": "Hero",
+        "species": "Skrull",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Captain Marv"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Talos",
+        "description": "Talos, perhaps the most cunning spy in all of the Skrull Empire, is a master of shapeshifting and intergalactic espionag"
+    },
+    {
+        "name": "Taskmaster",
+        "category": "Villen",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Dead",
+        "movie": [
+            "Black Widow "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Taskmaster",
+        "description": "Taskmaster is a masked assassin who carries out deadly missions on behalf of the Red Roo"
+    },
+    {
+        "name": "Thanos",
+        "category": "Villen",
+        "species": "Titan",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Avengers: Infinity War",
+            "The Avengers"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Thanos",
+        "description": "The Mad Titan Thanos quests across the universe in search of the Infinity Stones, intending to use their limitless power for shocking purposes. "
+    },
+    {
+        "name": "Thena",
+        "category": "Hero",
+        "species": "Eternal",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Eternals"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Thena",
+        "description": "The fierce warrior Thena is more comfortable in battle than anywhere els"
+    },
+    {
+        "name": "Thor",
+        "category": "Hero",
+        "species": "Asgardian",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Infinity War",
+            "Doctor Stran",
+            "The Avengers",
+            "Thor",
+            "Thor: Love and Thund",
+            "Thor: Ragnarok",
+            "Thor: The Dark World"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Thor",
+        "description": "The son of Odin uses his mighty abilities as the God of Thunder to protect his home Asgard and planet Earth alik"
+    },
+    {
+        "name": "Ultron",
+        "category": "Villen",
+        "species": "Synthezoid",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ultron",
+        "description": "The creation gone awry, the sentient robot Ultron hates and seeks to wipe out humanity. "
+    },
+    {
+        "name": "Valkyrie",
+        "category": "Hero",
+        "species": "Asgardian",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Thor: Ragnarok"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Valkyrie",
+        "description": "Valkyrie uses her superhuman strength to defend Asgard. "
+    },
+    {
+        "name": "Vision",
+        "category": "Hero",
+        "species": "Andriod",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Infinity War"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Vision",
+        "description": "The android called Vision defies physics and fights as an Avenger with the power of density manipulation and his flawless computer brain"
+    },
+    {
+        "name": "Vulture",
+        "category": "Villen",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Spider-Man: Homecomi"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Vulture",
+        "description": "Equipped with an impressive flying appartus, Adrian Toomes takes to the skies as the winged menace known as the Vulture."
+    },
+    {
+        "name": "War Machine",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Avengers: Age of Ultron ",
+            "Captain America: Civil War",
+            "Iron Man"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/War Machine",
+        "description": "Military veteran James Rhodes is ready for combat in his advanced armor, adding a formidable arsenal to Tony Stark-created designs. "
+    },
+    {
+        "name": "Wasp",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Ant-Man ",
+            "Ant-Man and The Wasp",
+            "Ant-Man and The Wasp: Quantumani"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Wasp",
+        "description": "Janet Van Dyne, daughter of world-renowned scientist Vernon Van Dyne, is a founding member and long time leader of the Avengers, with the ability to shrink, fly and control insects"
+    },
+    {
+        "name": "Wasp",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": [
+            "Ant-Man ",
+            "Ant-Man and The Wasp",
+            "Ant-Man and The Wasp: Quantumani"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Wasp",
+        "description": "Showing the same scientific aptitude as her father, Hank Pym, Nadia Pym is inspired by both him and Janet van Dyne to fly into action as part of a new generation of heroes."
+    },
+    {
+        "name": "Winter Soldier",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Black Panthe",
+            "Captain America: The First Aveng",
+            "Captain America: The Winter Soldier "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Winter Soldier",
+        "description": "Bucky Barnes was brought back from his supposed death to be a brainwashed assassin called Winter Soldier. Reformed by his friends, he now fights alongside the Avengers."
+    },
+    {
+        "name": "Wong",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": [
+            "Doctor Stran",
+            "Doctor Strange in the Multiverse of Madness "
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Wong",
+        "description": "A master of the martial and mystic arts, Wong is a close companion of Doctor Strange"
+    },
+    {
+        "name": "Yon-Rogg",
+        "category": "Villen",
+        "species": "Kree",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Captain Marv"
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Yon-Rogg",
+        "description": "As the leader of a squad of elite Kree soldiers, Yon-Rogg takes newly-recruited Carol Danvers under his wing and trains her."
+    },
+    {
+        "name": "Yondu",
+        "category": "Hero",
+        "species": "Centaurian",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": [
+            "Guardians of the Galaxy ",
+            "Guardians of the Galaxy Vol."
+        ],
+        "tv_series": "NA",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Yondu",
+        "description": "Adventurer and natural mystic, Yondu wields a mighty bow with Yaka arrows that move according to his whistle"
+    },
+    {
+        "name": "Agent Mobius",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Loki"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Agent Mobius",
+        "description": "Mobius is an agent for the Time Variance Authority who specializes in the investigations of particularly dangerous time criminals."
+    },
+    {
+        "name": "Zemo",
+        "category": "Villen",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "The Falcon and The Winter Soldier"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Zemo",
+        "description": "Fueled by revenge, Zemo blames the Avengers for their role in his family's deaths and uses every skill in his arsenal to take down the arrogant Super Heroes."
+    },
+    {
+        "name": "Yelena",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Hawkeye"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Yelena",
+        "description": "A product of the Red Room's ruthless training programs, this fiery assassin has a secret history with the Black Widow that she is determined to address."
+    },
+    {
+        "name": "Maya Lopez",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Hawkeye"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Maya Lopez",
+        "description": "NA"
+    },
+    {
+        "name": "Eleanor Bishop",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Hawkeye"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Eleanor Bishop",
+        "description": "NA"
+    },
+    {
+        "name": "Hawkeye",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Hawkeye"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Hawkeye",
+        "description": "A master marksman and longtime friend of Black Widow, Clint Barton serves as the Avengers amazing archer."
+    },
+    {
+        "name": "Kate Bishop",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Hawkeye"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Kate Bishop",
+        "description": "NA"
+    },
+    {
+        "name": "Hunter B-15",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Loki"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Hunter B-15",
+        "description": "Hunter B-15 is a high-ranking Hunter, determined to find and delete The Variant for taking down TVA troops."
+    },
+    {
+        "name": "Kazi",
+        "category": "Villen",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Hawkeye"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Kazi",
+        "description": "NA"
+    },
+    {
+        "name": "Loki",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Loki"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Loki",
+        "description": "God of Mischief and brother to Thor, Loki\u00e2\u20ac\u2122s tricks and schemes wreak havoc across the realms."
+    },
+    {
+        "name": "Pizza Dog",
+        "category": "Hero",
+        "species": "Dog",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Hawkeye"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Pizza Dog",
+        "description": "NA"
+    },
+    {
+        "name": "Miss Minutes",
+        "category": "Hero",
+        "species": "NA",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Loki"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Miss Minutes",
+        "description": "Hey y'all! Miss Minutes keeps the Time Variance Authority ticking like clockwork, in more ways than one."
+    },
+    {
+        "name": "Ravonna Renslayer",
+        "category": "Villen",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Loki"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Ravonna Renslayer",
+        "description": "Ravonna Renslayer is a respected judge in the Time Variance Authority, and one of few in rank to stand in the presence of the Time Keepers themselves."
+    },
+    {
+        "name": "Captain America",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "The Falcon and The Winter Soldier"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Captain America",
+        "description": "Sam Wilson, formerly the Falcon, takes on the mantle of Captain America as he teams up with his fellow Avengers."
+    },
+    {
+        "name": "Wanda Maximoff",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "WandaVision"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Wanda Maximoff",
+        "description": "Notably powerful, Wanda Maximoff has fought both against and with the Avengers, attempting to hone her abilities and do what she believes is right to help the world."
+    },
+    {
+        "name": "Sharon Carter",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "The Falcon and The Winter Soldier"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Sharon Carter",
+        "description": "Government spy Sharon Carter defends her country by joining intelligence agencies and follows orders\u00e2\u20ac\u00a6 most of the time."
+    },
+    {
+        "name": "Jack",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Hawkeye"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Jack",
+        "description": "NA"
+    },
+    {
+        "name": "Sylvie Laufeydottir",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Female",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "Loki"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Sylvie Laufeydottir",
+        "description": "Sylvie is the extremely capable and dangerous variant who just happens to be another version of Loki."
+    },
+    {
+        "name": "The Watcher",
+        "category": "Hero",
+        "species": "Watcher",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "What If...?"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/The Watcher",
+        "description": "The Watcher is a being who exists outside the planes of space and time. He sees every moment that has happened, will happen, or is happening, and not just in our universe..."
+    },
+    {
+        "name": "Vision",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Dead",
+        "movie": "NA",
+        "tv_series": [
+            "WandaVision"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Vision",
+        "description": "The android called Vision defies physics and fights as an Avenger with the power of density manipulation and his flawless computer brain."
+    },
+    {
+        "name": "Winter Soldier",
+        "category": "Hero",
+        "species": "Human",
+        "gender": "Male",
+        "status": "Alive",
+        "movie": "NA",
+        "tv_series": [
+            "The Falcon and The Winter Soldier"
+        ],
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Winter Soldier",
+        "description": "Bucky Barnes was brought back from his supposed death to be a brainwashed assassin called Winter Soldier. Reformed by his friends, he now fights alongside the Avengers."
+    }
+]
