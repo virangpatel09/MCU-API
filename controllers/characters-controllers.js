@@ -32,7 +32,6 @@ const createCharacter = asyncWrapper( async (req,res,next)=>{
 const getCharacter =  asyncWrapper(async (req,res,next)=>{
     // res.json({id:req.params.id})
     const { name: character } = req.params
-    const { name: character } = req.params
     // console.log(character)
     const characterdata = await Schema.findOne({name:character})
     if(!characterdata)
