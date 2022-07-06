@@ -6,10 +6,11 @@ const app=express()
 require('dotenv').config()
 const notfound = require("./middleware/not-found")
 const errorHandler = require("./middleware/error")
+const cros = require('cors')
 
 //middleware
 app.use(express.json())
-
+app.use(cors())
 
 //routes
 app.use("/api/v1/characters",routes)
