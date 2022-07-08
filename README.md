@@ -20,7 +20,7 @@ Return 12 character per page<br>
 ### Filter
 You can also include filters in the URL by including additional query parameters. To start filtering add a ? followed by the query (query)=(value). If you want to chain several queries in the same call, use & followed by the query.<br>
 
-ex : "https://mcu-api-app.herokuapp.com/api/v1/characters/?page=0&name="Black"
+ex : "https://mcu-api-app.herokuapp.com/api/v1/characters/?page=0&name=Black
 
 <ul>
 <li>name: filter by the given name.</li>
