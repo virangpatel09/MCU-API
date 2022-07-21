@@ -19,9 +19,9 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Ant-Man ",
+            "Ant-Man",
             "Ant-Man and The Wasp",
-            "Ant-Man and The Wasp: Quantumani"
+            "Ant-Man and The Wasp: Quantumania"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ant-Man",
@@ -34,7 +34,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Captain Marv"
+            "Captain Marvel"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Att-Lass",
@@ -47,7 +47,7 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Black Panthe",
+            "Black Panther",
             "Captain America: Civil War"
         ],
         "tv_series": "NA",
@@ -61,10 +61,12 @@
         "gender": "Female",
         "status": "Dead",
         "movie": [
-            "Avengers: Age of Ultron ",
+            "Avengers: Age of Ultron",
             "Avengers: Infinity War",
+            "Black Widow",
             "Captain America: Civil War",
-            "Captain America: The Winter Soldier ",
+            "Captain America: The Winter Soldier",
+            "Iron Man 2",
             "The Avengers"
         ],
         "tv_series": "NA",
@@ -78,7 +80,7 @@
         "gender": "Female",
         "status": "Alive",
         "movie": [
-            "Black Widow "
+            "Black Widow"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Yelena",
@@ -91,7 +93,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Captain Marv"
+            "Captain Marvel"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Bron-Char",
@@ -104,12 +106,13 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Ant-Man ",
-            "Avengers: Age of Ultron ",
+            "Ant-Man",
+            "Avengers: Age of Ultron",
             "Avengers: Infinity War",
             "Captain America: Civil War",
-            "Captain America: The First Aveng",
-            "Spider-Man: Homecomi",
+            "Captain America: The First Avenger",
+            "Captain America: The Winter Soldier",
+            "Spider-Man: Homecoming",
             "The Avengers"
         ],
         "tv_series": "NA",
@@ -123,8 +126,8 @@
         "gender": "Female",
         "status": "Alive",
         "movie": [
-            "Captain Marv",
-            "The Marvels "
+            "Captain Marvel",
+            "The Marvels"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Captain Marvel",
@@ -137,7 +140,8 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Guardians of the Galaxy ",
+            "Avengers: Infinity War",
+            "Guardians of the Galaxy",
             "Thor: The Dark World"
         ],
         "tv_series": "NA",
@@ -150,7 +154,9 @@
         "species": "NA",
         "gender": "Male",
         "status": "Dead",
-        "movie": [],
+        "movie": [
+            "Avengers: Infinity War"
+        ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Corvus Glaive",
         "description": "A loyal follower of Thanos, Corvus Glaive is a force to be reckoned with as he relentlessly strikes against those in his pat"
@@ -162,6 +168,7 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
+            "Avengers: Age of Ultron",
             "The Avengers",
             "Thor",
             "Thor: The Dark World"
@@ -178,9 +185,9 @@
         "status": "Alive",
         "movie": [
             "Avengers: Infinity War",
-            "Doctor Stran",
+            "Doctor Strange",
             "Doctor Strange in the Multiverse of Madness ",
-            "Spider-Man: No Way Home ",
+            "Spider-Man: No Way Home",
             "Thor: Ragnarok"
         ],
         "tv_series": "NA",
@@ -194,7 +201,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Doctor Stran"
+            "Doctor Strange"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Dormammu",
@@ -207,8 +214,9 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Guardians of the Galaxy ",
-            "Guardians of the Galaxy Vol."
+            "Avengers: Infinity War",
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol.2"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Drax",
@@ -247,7 +255,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Guardians of the Galaxy Vol."
+            "Guardians of the Galaxy Vol.2"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ego",
@@ -260,7 +268,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Black Panthe"
+            "Black Panther"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Erik Killmonger",
@@ -287,8 +295,8 @@
         "status": "Alive",
         "movie": [
             "Avengers: Infinity War",
-            "Guardians of the Galaxy ",
-            "Guardians of the Galaxy Vol."
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol.2"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Gamora",
@@ -314,7 +322,7 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Captain Marv"
+            "Captain Marvel"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Goose the Cat",
@@ -340,8 +348,9 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Guardians of the Galaxy ",
-            "Guardians of the Galaxy Vol."
+            "Avengers: Infinity War",
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol.2"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Groot",
@@ -354,7 +363,7 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Ant-Man ",
+            "Ant-Man",
             "Ant-Man and The Wasp"
         ],
         "tv_series": "NA",
@@ -368,7 +377,7 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Avengers: Age of Ultron ",
+            "Avengers: Age of Ultron",
             "Captain America: Civil War",
             "The Avengers",
             "Thor"
@@ -384,6 +393,8 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
+            "Avengers: Age of Ultron",
+            "Avengers: Infinity War",
             "Thor",
             "Thor: Ragnarok",
             "Thor: The Dark World"
@@ -412,7 +423,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Ant-Man "
+            "Ant-Man"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Howard Stark",
@@ -425,9 +436,11 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Iron Man",
+            "Avengers: Age of Ultron",
+            "Avengers: Infinity War",
+            "Iron Man 3",
             "The Avengers",
-            "The Incredible Hulk ",
+            "The Incredible Hulk",
             "Thor: Ragnarok"
         ],
         "tv_series": "NA",
@@ -454,7 +467,7 @@
         "gender": "Female",
         "status": "Alive",
         "movie": [
-            "Black Widow "
+            "Black Widow"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Melina",
@@ -467,11 +480,15 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
+            "Avengers: Age of Ultron",
+            "Avengers: Infinity War",
             "Captain America: Civil War",
             "Iron Man",
-            "Spider-Man: Homecomi",
+            "Iron Man 2",
+            "Iron Man 3",
+            "Spider-Man: Homecoming",
             "The Avengers",
-            "The Incredible Hulk "
+            "The Incredible Hulk"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Iron Man",
@@ -497,7 +514,8 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Black Panthe"
+            "Avengers: Age of Ultron",
+            "Black Panther"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ulysses Klaue",
@@ -510,7 +528,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Captain Marv"
+            "Captain Marvel"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Korath",
@@ -523,6 +541,7 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
+            "Avengers: Infinity War",
             "The Avengers",
             "Thor",
             "Thor: Ragnarok",
@@ -553,7 +572,7 @@
         "status": "Alive",
         "movie": [
             "Avengers: Infinity War",
-            "Guardians of the Galaxy Vol."
+            "Guardians of the Galaxy Vol.2"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Mantis",
@@ -566,7 +585,7 @@
         "gender": "Female",
         "status": "Alive",
         "movie": [
-            "Captain Marv"
+            "Captain Marvel"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Maria Rambeau",
@@ -579,7 +598,7 @@
         "gender": "Female",
         "status": "Dead",
         "movie": [
-            "Captain Marv"
+            "Captain Marvel"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Minn-Erva",
@@ -592,7 +611,7 @@
         "gender": "Female",
         "status": "Alive",
         "movie": [
-            "Black Panthe"
+            "Black Panther"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Nakia",
@@ -606,8 +625,8 @@
         "status": "Alive",
         "movie": [
             "Avengers: Infinity War",
-            "Guardians of the Galaxy ",
-            "Guardians of the Galaxy Vol."
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol.2"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Nebula",
@@ -620,7 +639,7 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Captain Marv",
+            "Captain Marvel",
             "Spider-Man: Far From Home"
         ],
         "tv_series": "NA",
@@ -649,7 +668,8 @@
         "gender": "Female",
         "status": "Alive",
         "movie": [
-            "Black Panthe"
+            "Avengers: Infinity War",
+            "Black Panther"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Okoye",
@@ -662,7 +682,7 @@
         "gender": "Female",
         "status": "Dead",
         "movie": [
-            "Ant-Man "
+            "Ant-Man"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Peggy Carter",
@@ -688,7 +708,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Captain Marv"
+            "Captain Marvel"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Phil Coulson",
@@ -713,7 +733,9 @@
         "species": "Human",
         "gender": "Male",
         "status": "Alive",
-        "movie": [],
+        "movie": [
+            "Black Widow"
+        ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Red Guardian",
         "description": "Alexei is known most famously as Red Room\u00e2\u20ac\u2122s answer to Captain America. He\u00e2\u20ac\u2122s a Super-Soldier spy who has lived a lifetime of triumph during the Cold War."
@@ -725,7 +747,7 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Black Widow "
+            "Black Widow"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Rick Mason",
@@ -739,8 +761,8 @@
         "status": "Alive",
         "movie": [
             "Avengers: Infinity War",
-            "Guardians of the Galaxy ",
-            "Guardians of the Galaxy Vol."
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol.2"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Rocket",
@@ -753,7 +775,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Captain Marv"
+            "Captain Marvel"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ronan",
@@ -766,12 +788,13 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Ant-Man ",
-            "Avengers: Age of Ultron ",
+            "Ant-Man",
+            "Avengers: Age of Ultron",
             "Avengers: Infinity War",
             "Captain America: Civil War",
-            "Captain America: The First Aveng",
-            "Spider-Man: Homecomi",
+            "Captain America: The First Avenger",
+            "Captain America: The Winter Soldier",
+            "Spider-Man: Homecoming",
             "The Avengers"
         ],
         "tv_series": "NA",
@@ -785,8 +808,10 @@
         "gender": "Female",
         "status": "Alive",
         "movie": [
+            "Avengers: Age of Ultron",
             "Avengers: Infinity War",
-            "Captain America: The Winter Soldier ",
+            "Captain America: Civil War",
+            "Captain America: The Winter Soldier",
             "Doctor Strange in the Multiverse of Madness "
         ],
         "tv_series": "NA",
@@ -826,7 +851,7 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Spider-Man: Homecomi"
+            "Spider-Man: Homecoming"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Shocker",
@@ -839,7 +864,8 @@
         "gender": "Female",
         "status": "Alive",
         "movie": [
-            "Black Panthe"
+            "Avengers: Infinity War",
+            "Black Panther"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Shuri",
@@ -853,9 +879,10 @@
         "status": "Alive",
         "movie": [
             "Avengers: Infinity War",
+            "Captain America: Civil War",
             "Spider-Man: Far From Home",
-            "Spider-Man: Homecomi",
-            "Spider-Man: No Way Home "
+            "Spider-Man: Homecoming",
+            "Spider-Man: No Way Home"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Spider-Man",
@@ -881,8 +908,9 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Guardians of the Galaxy ",
-            "Guardians of the Galaxy Vol."
+            "Avengers: Infinity War",
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol.2"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Star-Lord",
@@ -895,7 +923,7 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Captain Marv"
+            "Captain Marvel"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Talos",
@@ -908,7 +936,7 @@
         "gender": "Female",
         "status": "Dead",
         "movie": [
-            "Black Widow "
+            "Black Widow"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Taskmaster",
@@ -921,6 +949,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
+            "Avengers: Age of Ultron",
             "Avengers: Infinity War",
             "The Avengers"
         ],
@@ -948,11 +977,12 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
+            "Avengers: Age of Ultron",
             "Avengers: Infinity War",
-            "Doctor Stran",
+            "Doctor Strange",
             "The Avengers",
             "Thor",
-            "Thor: Love and Thund",
+            "Thor: Love and Thunder",
             "Thor: Ragnarok",
             "Thor: The Dark World"
         ],
@@ -966,7 +996,9 @@
         "species": "Synthezoid",
         "gender": "Male",
         "status": "Dead",
-        "movie": [],
+        "movie": [
+            "Avengers: Age of Ultron"
+        ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Ultron",
         "description": "The creation gone awry, the sentient robot Ultron hates and seeks to wipe out humanity. "
@@ -991,7 +1023,8 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Avengers: Infinity War"
+            "Avengers: Infinity War",
+            "Captain America: Civil War"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Vision",
@@ -1004,7 +1037,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Spider-Man: Homecomi"
+            "Spider-Man: Homecoming"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Vulture",
@@ -1017,9 +1050,12 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Avengers: Age of Ultron ",
+            "Avengers: Age of Ultron",
+            "Avengers: Infinity War",
             "Captain America: Civil War",
-            "Iron Man"
+            "Iron Man",
+            "Iron Man 2",
+            "Iron Man 3"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/War Machine",
@@ -1032,9 +1068,9 @@
         "gender": "Female",
         "status": "Alive",
         "movie": [
-            "Ant-Man ",
+            "Ant-Man",
             "Ant-Man and The Wasp",
-            "Ant-Man and The Wasp: Quantumani"
+            "Ant-Man and The Wasp: Quantumania"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Wasp",
@@ -1047,9 +1083,9 @@
         "gender": "Female",
         "status": "Alive",
         "movie": [
-            "Ant-Man ",
+            "Ant-Man",
             "Ant-Man and The Wasp",
-            "Ant-Man and The Wasp: Quantumani"
+            "Ant-Man and The Wasp: Quantumania"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Wasp",
@@ -1062,9 +1098,12 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Black Panthe",
-            "Captain America: The First Aveng",
-            "Captain America: The Winter Soldier "
+            "Ant-Man",
+            "Avengers: Infinity War",
+            "Black Panther",
+            "Captain America: Civil War",
+            "Captain America: The First Avenger",
+            "Captain America: The Winter Soldier"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Winter Soldier",
@@ -1077,7 +1116,8 @@
         "gender": "Male",
         "status": "Alive",
         "movie": [
-            "Doctor Stran",
+            "Avengers: Infinity War",
+            "Doctor Strange",
             "Doctor Strange in the Multiverse of Madness "
         ],
         "tv_series": "NA",
@@ -1091,7 +1131,7 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Captain Marv"
+            "Captain Marvel"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Yon-Rogg",
@@ -1104,8 +1144,8 @@
         "gender": "Male",
         "status": "Dead",
         "movie": [
-            "Guardians of the Galaxy ",
-            "Guardians of the Galaxy Vol."
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol.2"
         ],
         "tv_series": "NA",
         "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/movies/Yondu",
@@ -1281,7 +1321,7 @@
         "description": "Ravonna Renslayer is a respected judge in the Time Variance Authority, and one of few in rank to stand in the presence of the Time Keepers themselves."
     },
     {
-        "name": "Captain America",
+        "name": "Falcon",
         "category": "Hero",
         "species": "Human",
         "gender": "Male",
@@ -1290,7 +1330,7 @@
         "tv_series": [
             "The Falcon and The Winter Soldier"
         ],
-        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Captain America",
+        "image": "https://raw.githubusercontent.com/virangpatel09/MCU-API/main/images/tv-series/Falcon",
         "description": "Sam Wilson, formerly the Falcon, takes on the mantle of Captain America as he teams up with his fellow Avengers."
     },
     {
