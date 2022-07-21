@@ -16,6 +16,23 @@ this api include only mcu characters means characters from X-men, Spiderman and 
 
 Return 12 character per page<br>
 <a href="https://mcu-api-app.herokuapp.com/api/v1/characters">https://mcu-api-app.herokuapp.com/api/v1/characters</a>/?page=2
+
+### Filter
+You can also include filters in the URL by including additional query parameters. To start filtering add a ? followed by the query (query)=(value). If you want to chain several queries in the same call, use & followed by the query.<br>
+
+ex : "https://mcu-api-app.herokuapp.com/api/v1/characters/?page=0&name=Black
+
+<ul>
+<li>name: filter by the given name.</li>
+<li>status: filter by the given status (alive, dead).</li>
+<li>species: filter by the given species.</li>
+<li>gender: filter by the given gender (female, male).</li>
+<li>movie: filter by movie name</li>
+<li>tv_series: filter by tv_series</li>
+</ul>
+
+
+
 ***
 ### Character information
 
